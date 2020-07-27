@@ -20,8 +20,8 @@
 - 提供代码生成器(MySQL、Oracle、sqlServer等主流数据库)，生成从Html到Mapper，爽歪歪  
 
 ## 代码仓库
-Gitee地址：[https://gitee.com/zwens/springboot-manager](https://gitee.com/zwens/springboot-manager)   
-GitHub地址：[https://github.com/aitangbao/springboot-manager](https://github.com/aitangbao/springboot-manager) 
+Gitee地址：[https://gitee.com/zwens/springboot-manager-simple](https://gitee.com/zwens/springboot-manager-simple)   
+GitHub地址：[https://github.com/aitangbao/springboot-manager-simple](https://github.com/aitangbao/springboot-manager-simple) 
 
 ## 开发文档&项目演示
 - 开发文档：[http://doc.aitangbao.com.cn](http://doc.aitangbao.com.cn) 
