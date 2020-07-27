@@ -88,19 +88,9 @@ GitHub地址：[https://github.com/aitangbao/springboot-manager-simple](https://
 	
 ## **效果图**
 
-![](http://tuchuang.aitangbao.com.cn/20200703175603.png)
+![](http://tuchuang.aitangbao.com.cn/20200727135211.png)
+![](http://tuchuang.aitangbao.com.cn/20200727135302.png)
 
-![2](https://images.gitee.com/uploads/images/2020/0521/110629_7526055a_997722.png)
-
-![3](https://images.gitee.com/uploads/images/2020/0521/110629_59b62d18_997722.png)
-
-![4](https://images.gitee.com/uploads/images/2020/0521/110629_4f2a354d_997722.png)
-
-![5](https://images.gitee.com/uploads/images/2020/0521/110630_a38ee132_997722.png)
-
-![7](https://images.gitee.com/uploads/images/2020/0521/110629_edd63da6_997722.png)
-
-![16](https://images.gitee.com/uploads/images/2020/0521/110630_4f083ac7_997722.png)
 
 ### 捐赠
 > 项目的发展离不开您的支持， 如果您够宽裕，请作者喝杯咖啡吧！
