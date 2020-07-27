@@ -1,0 +1,28 @@
+# 测试环境配置
+spring:
+  thymeleaf:
+    cache: false
+  datasource:
+    dynamic:
+      primary: master #设置默认的数据源或者数据源组,默认值即为master
+      datasource:
+        master:
+          username: project
+          password: projectM
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          url: jdbc:mysql://121.42.10.80:3306/company_project?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2b8
+        oracle:
+          username: root
+          password: 123456
+          driver-class-name: oracle.jdbc.driver.OracleDriver
+          url: jdbc:oracle:thin:@localhost:1521/company_project
+        sqlServer:
+          username: sa
+          password: 123456
+          driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+          url: jdbc:sqlserver://localhost:1433;databaseName=company_project
+  redis:
+    host: 121.42.10.80 # Redis服务器地址
+    database: 0 # Redis数据库索引（默认为0）
+    port: 6379 # Redis服务器连接端口
+    password: manager123 # Redis服务器连接密码（默认为空）
